@@ -29,7 +29,7 @@ elif args.interest == None:
 
 
 elif len(inputs)<4:
-      print("Incorrect parameters.5")
+      print("Incorrect parameters.")
 
 
 elif args.type=="diff":
